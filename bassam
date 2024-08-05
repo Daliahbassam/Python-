@@ -1,0 +1,33 @@
+/home/daliah/Desktop
+print(5+3)
+print(5-3)
+print(5*3)
+print(5/3)
+print(5//3)
+print(5%3)
+print(5**3)
+a= 10
+b=3.14
+c="Hello,World!"
+d=True
+e=None
+print(a,b,c,d,e)
+if a>b:
+print("a is greater than b")
+elif a<b:
+print ("a is less than b")
+else: 
+print("a is equal to b")
+count = 0
+while count < 5 :
+print (count)
+count += 1
+
+a=10
+b=3.14
+c="Hello,World!"
+d=True
+e=None
+print(a,b,c,d,e)
+print(5+3)
+

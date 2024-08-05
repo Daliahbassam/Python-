@@ -1,0 +1,10 @@
+Server:		127.0.0.53
+Address:	127.0.0.53#53
+
+Non-authoritative answer:
+www.google.com	canonical name = forcesafesearch.google.com.
+Name:	forcesafesearch.google.com
+Address: 216.239.38.120
+Name:	forcesafesearch.google.com
+Address: 2001:4860:4802:32::78
+

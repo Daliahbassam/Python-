@@ -1,0 +1,5 @@
+This is a log file with some errors.
+ERROR:Something went wrong
+This is a line without any errors.
+ERROR unexpected issue.
+WARNING: Battery is low 
